@@ -13,7 +13,7 @@ body{
 }
 
 .titulo-destaque{
-    color: #c6f096;
+    color: #5de7ff;
 }
 
 .apresentacao{
@@ -54,6 +54,9 @@ body{
 }
 
 .apresentacao__links__link{
+    display: flex;
+    justify-content: center;
+    gap: 16px;
     width: 378px;
     text-align: center;
     border-radius: 8px;
@@ -62,8 +65,14 @@ body{
     padding: 21.5px 0;
     text-decoration: none;
     color: #F6F6F6;
-    border: 2px solid #c6f096;
+    border: 2px solid #5de7ff;
     font-family: 'Montserrat', sans-serif;
+}
+
+.apresentacao__links__link:hover {
+    padding: 3%;
+    background-color: #272727;
+    border: 2px solid #F6F6F6;
 }
 
 .imagem {
