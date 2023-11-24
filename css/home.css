@@ -127,3 +127,35 @@ body{
     }
 
 }
+
+@media (max-width: 767px) {
+    .cabecalho {
+        padding: 5%; 
+    }
+
+    .cabecalho__menu {
+        justify-content: center;
+    }
+
+    .cabecalho__menu__link{
+        font-size: 15px;
+    }
+    
+    .apresentacao {
+        flex-direction: column-reverse; 
+      
+    }
+
+    .apresentacao__conteudo {
+        width: auto; 
+    }
+
+    .imagem {
+        width: 50%;
+        height: 50%;
+    }
+
+    .rodape {
+        width: auto;
+    }
+}
