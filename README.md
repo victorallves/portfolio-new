@@ -1,6 +1,6 @@
 # Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://lh3.googleusercontent.com/pw/ADCreHcpLSPqEXBYUk7wxJ0nBwcBiSEKzei-tItXWjA6kIMtnj7_-U-L3_tR2RMj-1CSEq7aK46-g3Y863MehHhhT26NBnLy6bE-vNHUuu5dKiafM1YTRSJfM_Cfj00R5rNMz-0jdEvaGGxeavi8y6R-11XRR1sE-nC0wAJkLqjvXSCffBhkmv6BaulEw4GT7uOLCDKmIBOz9lRB1lFesOJqwsbrQ7E3urE59_tG2q7mmnhHtNiapl66FOaayoSEzJGHxBgOgJFf6do1b-SVUVV_JXsW7OW7lnrVVpUL_1QmNOvTI7hJHm5X08TQa1IrW4-g6XPWuB712wbsePAbkGgPsS5ACSA9gigUlgnALqd3hjs33ZPRFA232xZciK0rkq3hV9tM6HTeUM_z6lkP8AOiUMIsGItTEO5RS1eCU5HiIy5B59oIReNd_aaIVzvAQr4xOEmgU1TfnAWhpRBpccnfZ_FPvGzkEcWYIrpuFe4Do4Lb6sYRX3ouBTwYZtnTbmQcRFI46PWbamdn33urrV1egIHPTA-r1gmBOTtSm5ibVjP3s1HbxlYdn1ZkD8sP0-rgnT-pjZUV6lOtPBTsYIQvJKxKCYcCSapcQrbiRLkbFcXW3xp_EyFL85DTzhQoBLJL3V8wQ2xRheuq5hHvK3nLKEYRNnY1YhpQiu2MTjx6A_f0xQykQd7lyZvyqJAJXOHZewj4Z-zF-ln2dd1vcfPr9SibwxXymuAA8srWp9q9GkIyAG6_npV7FMWpZ248G5QzIVUqYCF0x2p13MJksvMLeyJLLCWG2W0n5CRGqe2bIJtjDlYRQMy2w7Xhg94q1s64o8JaM9ZR3sxCroIgt-xxfC8Kc4k8LOuzv3lXbQkdvvbqlxSYALTi-Edo0WYVrojS8NF6-qTe2VBSKVcfGPPU3p3TJz6voH_OdzzQVWc=w1883-h876-s-no-gm?authuser=0)
+![1700851930997](https://github.com/victorallves/portfolio-new/assets/113953361/b5aba7d5-530c-4d20-81bf-10bcb4e9a979)
 
 ## Ferramentas utilizadas:
 
@@ -15,4 +15,5 @@
 ### Victor Augusto
 
 ### Linkedin: https://www.linkedin.com/in/victor-augusto-28445a23b/
+
 
